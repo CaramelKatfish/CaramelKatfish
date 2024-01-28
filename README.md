@@ -1,5 +1,5 @@
 ### 
-<p align='left'>Hi! I'm Sean, a professional business intelligence analyst with experience on more than 7 technical projects. My skills include business analytics, data visualization and storytelling, Python, SQL, and Spreadsheets. Now, I am eager to leverage my big data and visualization skills in the food service and commercially packaged goods industries to drive growth and boost sales.
+<p align='left'>Hi! I'm Sean, a professional business intelligence analyst with experience on more than 7 technical projects. My skills include business analytics, data visualization and storytelling, SQL, and Spreadsheets. Now, I am eager to leverage my big data and visualization skills in the food service and commercially packaged goods industries to drive growth and boost sales.
 
   Some facts about me:
 
