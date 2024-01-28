@@ -14,8 +14,6 @@
 
 Feel free to contact me on GitHub or LinkedIn:
 [![LinkedIn Link] (www.linkedin.com/in/sean-henry-a041b853)]
-[![Resume Link] (https://docs.google.com/document/d/1HXTUGATiQcAL5ptxHrzW-tTf5D3wGZRb/edit?usp=sharing&ouid=116095119294751576159&rtpof=true&sd=true)] 
-
 <!--
 **CaramelKatfish/CaramelKatfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
